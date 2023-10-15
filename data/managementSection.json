@@ -1,0 +1,21 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Product Objectives",
+            "description11": "What problem does this product fix?",
+            "description111": "Personal coaches are not that personal, they cost a lot, they don't know about your daily routines, and they don't like readjusting plans.",
+            "description": "Key values.",
+            "description1": "Personalised, cost-efficient, live tracking, AI-based re-adjustment."
+        },
+        {
+            "id": 2,
+            "title": "Product Vision",
+            "description": "Currently: ",
+            "description1": "Sensei works as a fitness coach, that includes everything. From Exercises to Diet.",
+            "description11": "Future:",
+            "description111":"We want Sensei to be omnipresent. Fitness, Productivity, Learning etc. You name it, your Sensei will help you !"
+          
+        }
+    ]
+}

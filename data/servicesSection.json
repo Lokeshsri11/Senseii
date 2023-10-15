@@ -1,0 +1,20 @@
+{
+    "title": "What features does the version 1 have ?",
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Fitness Coach/Diet Coach",
+            "description": "Personalized workouts, Exercise routines, Training tips, Nutritional advice, Meal planning, Balanced diet recommendations"
+        },
+        {
+            "id": 2,
+            "title": "Daily Progress Tracking",
+            "description": "Weight monitoring, Workout log, Food diary, Progress reports"
+        },
+        {
+            "id": 3,
+            "title": "Auto Adjustment of Plans",
+            "description": "Adaptive fitness plans, Smart goal setting, Customized diet adjustments, Automated plan optimization, Real-time feedback"
+        }
+    ]
+}
